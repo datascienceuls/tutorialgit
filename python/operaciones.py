@@ -19,6 +19,7 @@ def resta(a,b):
 '''
 def multiplicacion(a,b):
     return a*b
+# modifique
 
 '''
   Funcion division
@@ -66,7 +67,8 @@ def coseno(a):
   Funcion tangente
 '''
 def tangente(a):
-    return 0
+    import numpy as np
+    return np.tan(a)
 
 
 '''
