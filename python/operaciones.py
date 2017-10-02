@@ -66,7 +66,8 @@ def coseno(a):
   Funcion tangente
 '''
 def tangente(a):
-    return 0
+    import numpy as np
+    return np.tan(a)
 
 
 '''
