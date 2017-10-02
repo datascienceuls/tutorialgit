@@ -31,7 +31,8 @@ def division(a,b):
   Funcion potencia
 '''
 def potencia(a,b):
-    return 0
+    return a**b
+
 
 
 '''
