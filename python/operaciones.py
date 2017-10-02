@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import math
 
 '''
   Funcion suma
@@ -47,8 +48,8 @@ def factorial(a):
   Funcion logaritmo
 '''
 def logaritmo(a):
-    return 0
-
+    import numpy
+    return numpy.log(a)
 
 '''
   Funcion seno
@@ -61,7 +62,8 @@ def seno(a):
   Funcion coseno
 '''
 def coseno(a):
-    return 0
+    s = math.cos(a)
+    return s 
 
 
 '''
@@ -185,8 +187,9 @@ def main():
     elif(opcion == 9):
         try:
             numa = raw_input('Número A: ')
-            a = int(numa)
-            print('Coseno: %d' % coseno(a))
+            #a = int(numa)
+            a = float(numa)
+            print('Coseno: %f' % coseno(a))
         except ValueError:
             print('Error en el coseno, el valor ingresado no es numerico')
     elif(opcion == 10):
