@@ -46,8 +46,8 @@ def factorial(a):
   Funcion logaritmo
 '''
 def logaritmo(a):
-    return 0
-
+    import numpy
+    return numpy.log(a)
 
 '''
   Funcion seno
