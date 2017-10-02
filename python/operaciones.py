@@ -10,8 +10,8 @@ def suma(a,b):
 '''
   Funcion resta
 '''
-def resta(a,b):
-    return 0
+def resta(a,b):    
+    return a - b
 
 
 '''
