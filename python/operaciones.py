@@ -24,8 +24,8 @@ def multiplicacion(a,b):
 '''
   Funcion division
 '''
-def division(a,b):
-    return 0
+def division(a,b): 
+    return a/b
 
 
 '''
