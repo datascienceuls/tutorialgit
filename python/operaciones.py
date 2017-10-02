@@ -6,7 +6,7 @@ import math
   Funcion suma
 '''
 def suma(a,b):
-    return 0
+    return a+b
 
 '''
   Funcion resta
@@ -19,20 +19,22 @@ def resta(a,b):
   Funcion multiplicación
 '''
 def multiplicacion(a,b):
-    return 0
+    return a*b
+# modifique
 
 '''
   Funcion division
 '''
-def division(a,b):
-    return 0
+def division(a,b): 
+    return a/b
 
 
 '''
   Funcion potencia
 '''
 def potencia(a,b):
-    return 0
+    return a**b
+
 
 
 '''
@@ -68,7 +70,8 @@ def coseno(a):
   Funcion tangente
 '''
 def tangente(a):
-    return 0
+    import numpy as np
+    return np.tan(a)
 
 
 '''

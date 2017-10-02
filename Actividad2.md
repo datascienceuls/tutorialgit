@@ -91,7 +91,7 @@
 
 * Realiza modificaciones al "***programa.py***" en esta rama (desarrollo) y realiza los commits correspondientes. Obtendrás el siguiente resultado:
 
-        git log --pretty=online
+        git log --pretty=oneline
        
 ![log desarrollo](images/log_desarrollo.png)
 
