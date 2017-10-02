@@ -5,20 +5,20 @@
   Funcion suma
 '''
 def suma(a,b):
-    return a+b
+    return 0
 
 '''
   Funcion resta
 '''
 def resta(a,b):
-    return (a-b)
+    return 0
 
 
 '''
   Funcion multiplicación
 '''
 def multiplicacion(a,b):
-    return a*b
+    return 0
 
 '''
   Funcion division
