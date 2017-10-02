@@ -7,13 +7,13 @@
 * Clona el repositorio que creaste con anterioridad (Actividad 1).
 * Para hacer esto copia la dirección o URL del repositorio desde github, esta dirección la obtienes cuando buscas un repositorio.
 
-<center>![search](images/search_github.png)</center>
+![search](images/search_github.png)
 
 * Una vez encontrado el repositorio copia la URL del repositorio (boton verde).
 
-<center>![home](images/repositorio_github.png)</center>
+![home](images/repositorio_github.png)
 
-<center>![URL](images/clonar.png)</center>
+![URL](images/clonar.png)
 
 * A continuación abre la terminal o consola de comandos (ctrl+t).
 
