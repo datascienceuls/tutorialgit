@@ -5,7 +5,7 @@
   Funcion suma
 '''
 def suma(a,b):
-    return 0
+    return a+b
 
 '''
   Funcion resta
@@ -19,12 +19,13 @@ def resta(a,b):
 '''
 def multiplicacion(a,b):
     return a*b
+# modifique
 
 '''
   Funcion division
 '''
-def division(a,b):
-    return 0
+def division(a,b): 
+    return a/b
 
 
 '''
